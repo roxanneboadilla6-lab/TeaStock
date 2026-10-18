@@ -1,0 +1,6 @@
+body { background: #f5f7fb; min-height: 100vh; }
+main { min-height: calc(100vh - 130px); }
+.card { border: 0; box-shadow: 0 2px 12px rgba(20, 40, 80, .06); }
+.stat-number { font-size: 1.8rem; font-weight: 700; }
+.table thead th { white-space: nowrap; }
+.login-wrap { max-width: 460px; margin: 5vh auto; }
